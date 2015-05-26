@@ -1,4 +1,4 @@
-# [Edward Ahn's Website]
+# Edward Ahn's Website
 
 Welcome to Edward Ahn's website. This website was created using Bootstrap, which implements HTML5, CSS3 and Javascript.
 
@@ -8,4 +8,4 @@ http://startbootstrap.com/template-overviews/modern-business/
 
 ## Copyright and License
 
-Copyright 2015 Edward Ahn.
+Copyright 2015 Edward Ahn. All Rights Reserved.
